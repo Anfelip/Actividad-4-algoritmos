@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Andres Felipe",
+        "apellido": "Gomez Rios",
+        "edad": 28,
+        "semestre": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Juan David",
+        "apellido": "Gomez Rios",
+        "edad": 21,
+        "semestre": 1
+    }
+]
